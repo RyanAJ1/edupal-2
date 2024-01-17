@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Lily+Script+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Paytone+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quando:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-orelega-one: "Orelega One";
+  --font-lily-script-one: "Lily Script One";
+  --font-paytone-one: "Paytone One";
+  --font-quando: Quando;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-45xl: 64px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-aliceblue: #f0f8ff;
+  --color-black: #000;
+}
